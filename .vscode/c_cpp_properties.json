@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "name": "GBA",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/opt/butano/butano/include/**",
+                 "${workspaceFolder}/build/**"
+            ],
+            "defines": [],
+            "compilerPath":"/opt/devkitpro/devkitARM/bin/arm-none-eabi-g++",
+            "cStandard": "c17",
+            "cppStandard": "c++20",
+            "intelliSenseMode": "gcc-arm"
+        }
+    ],
+    "version": 4
+}
